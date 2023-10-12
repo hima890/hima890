@@ -27,9 +27,12 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
   </a>
   
 ### Languages and Tools 🛠️
-  <img style="flot: left;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
-  <img style="flot: left;" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  
+  <a style="flot: left;">
+    <img  src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
+   </a>
+  <a style="flot: left;">
+   <img style="flot: left;" src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
+  </a>
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </div>
