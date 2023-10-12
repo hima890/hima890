@@ -98,9 +98,14 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 </div>
 
 
-### GitHub Stats 🌱 
+### GitHub Stats 🌱
 
-![Ibrahim Hanafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hima890&show_icons=true&theme=cobalt)
+<div style="display: flex; justify-content: space-between;">
+  <div style="flex: 1; padding: 10px;">
+    ![Ibrahim Hanafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hima890&show_icons=true&theme=cobalt)
+  </div>
+</div>
+
 
 ### Currently Learning 💻
 - Softwear Engerring
