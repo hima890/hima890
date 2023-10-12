@@ -12,24 +12,23 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 - 🚀 Connect with me on [Facebook](https://www.facebook.com/ibrahim.hanafi.925) | [Gmail](mailto:hfibrahim90@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174)
 
 ### Languages and Tools 🛠️
-
-![Python](python.svg)
-![C](c.svg)
-![C++](cplusplus.svg)
-![Bash](gnubash.svg)
-![MySQL](mysql.svg)
-![HTML](html5.svg)
-![CSS](css3.svg)
-![JavaScript](jss.svg)
-![Bootstrap](bootstrap.svg)
-![Markdown](markdown.svg)
-![VS Code](visualstudiocode.svg)
-![Git](git.svg)
-![GitHub](github.svg)
-![Terminal](gnometerminal.svg)
-![Postman](postman.svg)
-![PyCharm](pycharm.svg)
-![Arduino](arduino.svg)
+<img src="python.svg" alt="Python" width="20" height="20">
+<img src="c.svg" alt="C" width="20" height="20">
+<img src="cplusplus.svg" alt="C++" width="20" height="20">
+<img src="gnubash.svg" alt="Bash" width="20" height="20">
+<img src="mysql.svg" alt="MySQL" width="20" height="20">
+<img src="html5.svg" alt="HTML" width="20" height="20">
+<img src="css3.svg" alt="CSS" width="20" height="20">
+<img src="jss.svg" alt="JavaScript" width="20" height="20">
+<img src="bootstrap.svg" alt="Bootstrap" width="20" height="20">
+<img src="markdown.svg" alt="Markdown" width="20" height="20">
+<img src="visualstudiocode.svg" alt="Visual Studio Code" width="20" height="20">
+<img src="git.svg" alt="Git" width="20" height="20">
+<img src="github.svg" alt="GitHub" width="20" height="20">
+<img src="gnometerminal.svg" alt="GNOME Terminal" width="20" height="20">
+<img src="postman.svg" alt="Postman" width="20" height="20">
+<img src="pycharm.svg" alt="PyCharm" width="20" height="20">
+<img src="arduino.svg" alt="Arduino" width="20" height="20">
 
 ### GitHub Stats 🌱 
 
