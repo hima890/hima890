@@ -9,8 +9,17 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 - 🌱 I'm currently learning and working with Python as my main language.
 - 💻 I also work with C, C++, Bash, MySQL, HTML, CSS, JavaScript, Bootstrap, and Markdown.
 - 🛠️ My favorite tools include Visual Studio Code, Git and GitHub, Terminal Commands, Postman, PyCharm IDE, and Arduino IDE.
-- 🚀 Connect with me on [Facebook](https://www.facebook.com/ibrahim.hanafi.925) | [Gmail](mailto:hfibrahim90@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174)
-
+- 🚀 Connect with me on
+- <a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+- <a href="https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+- <a href="hfibrahim90@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  
 ### Languages and Tools 🛠️
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="python.svg" alt="Python" width="20" height="20" style="float: left;">
