@@ -27,7 +27,21 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
   </a>
   
 ### Languages and Tools 🛠️
-
+<a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
+    <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
+  </a>
+ <a href="https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174" target="_blank" style="float: left">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+ <a href="mailto:hfibrahim90@gmail.com" target="_blank" style="float: left">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://api.whatsapp.com/send?phone=+249116897470" target="_blank" style="float: left">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="Gmail">
+  </a>
+  <a href="https://t.me/Hima_y" target="_blank" style="float: left">
+    <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail">
+  </a>
 <a href="#" target="_blank">
   <img style="max-width: 100%;
     float: left;
