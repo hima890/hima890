@@ -10,13 +10,13 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 - 💻 I also work with C, C++, Bash, MySQL, HTML, CSS, JavaScript, Bootstrap, and Markdown.
 - 🛠️ My favorite tools include Visual Studio Code, Git and GitHub, Terminal Commands, Postman, PyCharm IDE, and Arduino IDE.
 - 🚀 Connect with me on
-- <a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank">
+ <a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="flot: left">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
-- <a href="https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174" target="_blank">
+ <a href="https://www.linkedin.com/in/ibrahim-hanafi-1a21b5174" target="_blank" style="flot: left">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
-- <a href="hfibrahim90@gmail.com" target="_blank">
+ <a href="mailto:hfibrahim90@gmail.com" target="_blank" style="flot: left">
     <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail">
   </a>
   
