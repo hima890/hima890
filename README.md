@@ -93,9 +93,15 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 
 ### GitHub Stats 🌱
 
- ![hima890's Stats](https://github-readme-stats.vercel.app/api?username=hima890&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
- 
- ![hima890's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima890&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+ <div style="float: left; width: 50%;">
+  ![hima890's Stats](https://github-readme-stats.vercel.app/api?username=hima890&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+</div>
+
+<div style="float: left; width: 50%;">
+  ![hima890's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima890&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
+</div>
+
+<div style="clear: both;"></div>
  
 ### Currently Learning in ALX SE Program 💻
 - Linux Commands
