@@ -45,7 +45,7 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 <a href="https://www.facebook.com/ibrahim.hanafi.925"  target="_blank" style="float: left">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
 </a>
-<a target="_blank" style="float: left">
+<a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
 </a>
 <a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
@@ -92,6 +92,7 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 </a>
 
 ### GitHub Stats 🌱
+<a href="[https://www.facebook.com/ibrahim.hanafi.925](https://github-readme-stats.vercel.app/api?username=hima890&theme=cobalt&show_icons=true&hide_border=true&count_private=true)" target="_blank" style="float: left"></a>
  ![hima890's Stats](https://github-readme-stats.vercel.app/api?username=hima890&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
  ![hima890's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima890&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
  
