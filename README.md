@@ -1,4 +1,4 @@
-<img src="background-image.jpg" alt="Background Image" width="100%" height="25%">
+<img src="background-image.jpg" alt="Background Image" width="100%" height="20%">
 
 # IBRAHIM HANAFI
 
@@ -99,10 +99,8 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 
 
 ### GitHub Stats 🌱
-<div style="width: 100%;">
-  ![Ibrahim Hanafi's GitHub Stats](https://github-readme-stats.vercel.app/api?username=hima890&show_icons=true&theme=cobalt)
-</div>
-
+ <img src="[arduino.svg](https://github-readme-stats.vercel.app/api?username=hima890&show_icons=true&theme=cobalt)" alt="Arduino" width="20" height="20">
+ 
 ### Currently Learning 💻
 - Softwear Engerring
 - Advanced Python concepts
