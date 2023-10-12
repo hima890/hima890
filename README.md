@@ -1,4 +1,4 @@
-<img src="background-image.jpg" alt="Background Image" width="50%" height="25%">
+<img src="background-image.jpg" alt="Background Image" width="100%" height="25%">
 
 # IBRAHIM HANAFI
 
