@@ -13,7 +13,7 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 
 ### Languages and Tools 🛠️
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
-  <img src="python.svg" alt="Python" width="20" height="20">
+  <img src="python.svg" alt="Python" width="20" height="20" style="float: left;">
   <span>Python</span>
 </div>
 
