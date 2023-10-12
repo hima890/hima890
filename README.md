@@ -29,102 +29,82 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 ### Languages and Tools 🛠️
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" style="float: left;">
-  <span>Python</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
-  <span>C</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
-  <span>C++</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
-  <img src="gnubash.svg" alt="Bash">
-  <span>Bash</span>
+  <img src="https://img.shields.io/badge/Shell_Script-121011?style=for-the-badge&logo=gnu-bash&logoColor=white" alt="Bash">
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL">
-  <span>MySQL</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML">
-  <span>HTML</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS">
-  <span>CSS</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E" alt="JavaScript">
-  <span>JavaScript</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white" alt="Bootstrap">
-  <span>Bootstrap</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Markdown-000000?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown">
-  <span>Markdown</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Markdown">
-  <span>Flask</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=green" alt="Markdown">
-  <span>Djang</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Qt-41CD52?style=for-the-badge&logo=qt&logoColor=white" alt="Markdown">
-  <span>QT</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white" alt="Visual Studio Code">
-  <span>Visual Studio Code</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white" alt="Git">
-  <span>Git</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
-  <span>GitHub</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/GNU%20Bash-4EAA25?style=for-the-badge&logo=GNU%20Bash&logoColor=white" alt="GNOME Terminal">
-  <span>GNOME Terminal</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=Postman&logoColor=white" alt="Postman">
-  <span>Postman</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left; margin-right: 10px;">
   <img src="https://img.shields.io/badge/PyCharm-000000.svg?&style=for-the-badge&logo=PyCharm&logoColor=white" alt="PyCharm">
-  <span>PyCharm</span>
 </div>
 
 <div style="background-color: #f1f1f1; padding: 10px; border-radius: 5px; float: left;">
   <img src="https://img.shields.io/badge/Arduino_IDE-00979D?style=for-the-badge&logo=arduino&logoColor=white" alt="Arduino">
-  <span>Arduino</span>
 </div>
 
 
