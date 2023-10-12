@@ -27,7 +27,7 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
   </a>
   
 ### Languages and Tools 🛠️
- ### Languages and Tools 🛠️
+
 <a href="#" target="_blank" style="float: left">
   <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </a>
