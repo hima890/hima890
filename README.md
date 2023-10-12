@@ -42,15 +42,15 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
   <a href="https://t.me/Hima_y" target="_blank" style="float: left">
     <img src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white" alt="Gmail">
   </a>
-<a href="#" target="_blank">
+<a href="https://www.facebook.com/ibrahim.hanafi.925"" target="_blank">
   <img style="max-width: 100%;
     float: left;
     margin-right: 0.5em;" src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python">
 </a>
-<a target="_blank" style="float: left">
+<a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
   <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" alt="C">
 </a>
-<a target="_blank" style="float: left">
+<a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
   <img src="https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++">
 </a>
 <a target="_blank" style="float: left">
