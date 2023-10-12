@@ -1,4 +1,4 @@
-![Ibrahim Hanafi](background-image.jpg)
+![Ibrahim Hanafi]<img src="background-image.jpg" alt="MySQL" width="100" height="100">
 
 # IBRAHIM HANAFI
 
