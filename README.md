@@ -92,9 +92,11 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 </a>
 
 ### GitHub Stats 🌱
- <img src="https://github-readme-stats.vercel.app/api?username=hima890&show_icons=true&theme=cobalt" alt="Arduino" width="100%" height="10%">
+ ![hima890's Stats](https://github-readme-stats.vercel.app/api?username=hima890&theme=cobalt&show_icons=true&hide_border=true&count_private=true)
+ ![hima890's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima890&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
  
-### Currently Learning 💻
-- Softwear Engerring
-- Advanced Python concepts
-- Web development with Django
+### Currently Learning in ALX SE Program 💻
+- Linux Commands
+- Git and GitHub
+- Bash Scripting
+- C Language
