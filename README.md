@@ -4,12 +4,12 @@
 
 ### About Me
 
-I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I love to code and create. Here's a bit about me:
+I'm Ibrahim Hanafi, a passionate software developer from Sudan. I love to code and create. Here's a bit about me:
 
 - 🌱 I'm currently learning and working with Python as my main language.
 - 💻 I also work with C, C++, Bash, MySQL, HTML, CSS, JavaScript, Bootstrap, and Markdown.
 - 🛠️ My favorite tools include Visual Studio Code, Git and GitHub, Terminal Commands, Postman, PyCharm IDE, and Arduino IDE.
-- 🚀 Connect with me on
+- 🚀 Connect with me on:
  <a href="https://www.facebook.com/ibrahim.hanafi.925" target="_blank" style="float: left">
     <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white" alt="Facebook">
   </a>
@@ -96,7 +96,9 @@ I'm Ibrahim Hanafi, a passionate software developer from Sudan / Khartoum. I lov
 ![hima890's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=hima890&theme=cobalt&show_icons=true&hide_border=true&layout=compact)
  
 ### Currently Learning in ALX SE Program 💻
-- Linux Commands
 - Git and GitHub
-- Bash Scripting
-- C Language
+- Linux And bash scripting
+- Low level programming (C)
+- Higher level programming (Python - MySQl - ...etc)
+- System engineering devops
+- Data structures and algorithms
